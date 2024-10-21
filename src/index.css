@@ -1,0 +1,44 @@
+/* Estilo geral do corpo */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Estilo da navegação */
+  nav {
+    background-color: #007BFF;
+    padding: 15px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo do título das páginas */
+  h1 {
+    color: #007BFF;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Estilo 
+  
